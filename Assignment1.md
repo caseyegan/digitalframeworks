@@ -12,5 +12,12 @@ In all, maps were created to show various death rates across the country for the
 1. Lower respiratory diseases 
 2. Diarrheal diseases 
 3. Alcohol use disorders 
-4. Drug use disorders. 
+4. Drug use disorders.  
+5. Interpersonal violence 
+6. Self harm 
 
+Besides maps, data was used in charts to reveal additional information about changes over time in causes of death for certain categories for Americans. 
+
+The data was from the Institute for Health Metrics and Evaluation. At the bottom of each map and chart there is an attribution to the organization. While the article does hyperlink to the organization's website, it does not link to the data directly.  
+
+I really liked how the story used to data to tell a story. Specifically,the map showing the change over time for lower respiratory deaths allowed me to see on a county level where the biggest changes have happened across the country in a way that text wouldn't be able to reveal. I can also see counties where little change has occurred. In a single glance, I can capture regional trends. I really enjoyed that form of storytelling. 
