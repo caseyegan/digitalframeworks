@@ -21,7 +21,7 @@ Since I am only looking for a single data value and the Census provided it, it d
 
 As presented, the data uses the methodology described by the Census and uses the equation it provides to arrive at the value. 
 
-While the Census, doesn't allow a link to a specific data set, [here](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2010-2017/2017-natstcopr-meth.pdf) is a link to the methodology. 
+While the Census doesn't allow a link to a specific data set, [here](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2010-2017/2017-natstcopr-meth.pdf) is a link to the methodology. 
 
 Best,
 Casey Egan 
