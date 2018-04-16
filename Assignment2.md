@@ -3,7 +3,7 @@
 
  ### Editor, 
 
-I hope this finds you well. I'd really like to write a story that uses data to answer the following question: How much did King County, Washington (the county where Seattle is) grow by in the last measurable year? 
+I hope this finds you well. I'd really like to write a story that uses data to answer the following question: How much did the population of King County, Washington (the county where Seattle is) grow by in the last measurable year? 
 
 I believe I can credibly answer this question for a number of reasons. The answer, according to the U.S. Census is 32, 687. I trust this data for a range of different reasons. 
 
