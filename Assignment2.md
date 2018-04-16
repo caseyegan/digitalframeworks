@@ -1,5 +1,7 @@
 
-Editor, 
+# Data Question
+
+ ### Editor, 
 
 I hope this finds you well. I'd really like to write a story that uses data to answer the following question: How much did King County, Washington (the county where Seattle is) grow by in the last measurable year? 
 
@@ -18,6 +20,8 @@ Because the Census provides a value for total population change, it does provide
 Since I am only looking for a single data value and the Census provided it, it doesn't appear that I need to locate any additional information, or that any information is missing.  
 
 As presented, the data uses the methodology described by the Census and uses the equation it provides to arrive at the value. 
+
+While the Census, doesn't allow a link to a specific data set, [here](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2010-2017/2017-natstcopr-meth.pdf) is a link to the methodology. 
 
 Best,
 Casey Egan 
