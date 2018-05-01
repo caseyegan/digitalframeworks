@@ -1,4 +1,4 @@
-In pouring through the data, I found something interesting: Four Republican members of Congress have spent money from their own re-election coffers at President Donald Trump's hotel properties and then subsequently announced they are retiring from Congress. 
+In poring through the data, I found something interesting: Four Republican members of Congress have spent money from their own re-election coffers at President Donald Trump's hotel properties and then subsequently announced they are retiring from Congress. 
 
 The pattern from the four is astoundingly similar: They spent re-election money at a Trump-owned property in 2017 and in 2018, they announced their retirements from Congress. 
 
@@ -12,4 +12,4 @@ Finally, on September 01, 2017, the political re-election committee for Republic
 
 In all, 31 Republican members of Congress have announced that they are retiring and not seeking re-election in 2018. This means that of the retiring Republican members of Congress, nearly 13 percent (12.9) used money from their political re-election funds at one of the President's properties. This seems significant to me. Did these members initially believe that by aligning themselves with the president it would benefit them politically and then have a change of heart? The data here shows a certain level of indecisiveness from these four elected officials. Initially, they all have re-election committees and are spending money at hotels owned and branded by the president. Just a year later, they announce they are stepping down from long careers in the middle of Trump's first term. 
 
-Data(https://docs.google.com/spreadsheets/d/1T_VqJqUG4aEVzhMcgr3sfg76uj3nXVTj9z543KviAqo/edit?usp=sharing)
+[Data](https://docs.google.com/spreadsheets/d/1T_VqJqUG4aEVzhMcgr3sfg76uj3nXVTj9z543KviAqo/edit?usp=sharing)
